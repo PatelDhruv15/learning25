@@ -1,0 +1,13 @@
+h1 {
+    font-size: larger;
+  }
+  .about {
+    margin-top: 200px;
+    margin-left: 100px;
+  }
+  .card {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
